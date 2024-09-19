@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(19, 157, 238);
+    
+}
+
+nav{
+    align-items: center;
+    text-align: center;
+    margin-top: 3px;
+    
+}
+a{
+    margin-left: 10px;
+    
+}
+
+h1{
+    color:rgb(153, 0, 255);
+    align-items: center;
+    text-align: center;
+}
+p1{
+color: rgb(153, 0, 255);
+text-align: center;
+margin
+
+}
+
+
+p{
+    color:rgb(153, 0, 255);
+    margin-left: 20px;
+}
+
+.padraoimg{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 350px;
+    width: 500px;
+
+}
+img{
+  border:solid 3px red;;
+  
+  margin-left: 380px;
+  
+
+}
+
